@@ -1,4 +1,6 @@
 <img width="1457" height="539" alt="image" src="https://github.com/user-attachments/assets/11d40390-68b8-4d64-9a40-3b8d89416068" /># BFSI-AI-Assistant
+<img width="1014" height="768" alt="image" src="https://github.com/user-attachments/assets/e9f07503-14d5-4cd2-86b7-35d20ebbea6f" />
+
 # 🏦 BFSI Call Center AI Assistant
 
 A lightweight, compliant, and fully local GenAI assistant designed to handle common Banking, Financial Services, and Insurance (BFSI) customer queries with high accuracy and safety.
