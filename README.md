@@ -1,4 +1,4 @@
-# BFSI-AI-Assistant
+<img width="1457" height="539" alt="image" src="https://github.com/user-attachments/assets/11d40390-68b8-4d64-9a40-3b8d89416068" /># BFSI-AI-Assistant
 # 🏦 BFSI Call Center AI Assistant
 
 A lightweight, compliant, and fully local GenAI assistant designed to handle common Banking, Financial Services, and Insurance (BFSI) customer queries with high accuracy and safety.
@@ -67,6 +67,7 @@ This ensures **safety first, generation second**.
 | Safety       | Rule‑based Guardrails |
 
 ---
+<img width="1457" height="539" alt="image" src="https://github.com/user-attachments/assets/6b713b1d-697c-4285-9e39-6a32baf3bc11" />
 
 ## 📁 Project Structure
 
