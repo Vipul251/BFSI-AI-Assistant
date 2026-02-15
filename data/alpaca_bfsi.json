@@ -1,0 +1,765 @@
+[
+  {
+    "instruction": "Check loan eligibility",
+    "input": "Am I eligible for a personal loan?",
+    "output": "Loan eligibility depends on factors such as your income, credit score, employment status, and existing financial obligations. Please log in to your account or apply online to get an exact eligibility assessment."
+  },
+  {
+    "instruction": "Loan eligibility criteria",
+    "input": "What are the requirements for getting a loan?",
+    "output": "Loan approval is based on multiple factors including your income stability, credit history, repayment capacity, and applicable internal policies. We recommend submitting an application to receive a detailed evaluation."
+  },
+  {
+    "instruction": "Loan application status",
+    "input": "How can I check my loan application status?",
+    "output": "You can check your loan application status by logging into the customer portal or using the mobile app. Navigate to the 'Loan Applications' section to view the latest update."
+  },
+  {
+    "instruction": "Loan processing time",
+    "input": "How long does loan approval take?",
+    "output": "Loan approval timelines may vary depending on document verification and internal checks. Typically, applications are processed within a few working days after successful submission of all required documents."
+  },
+  {
+    "instruction": "EMI amount query",
+    "input": "How is my EMI calculated?",
+    "output": "Your EMI is calculated based on the loan amount, applicable interest rate, and tenure. You can use the EMI calculator available on our website for an estimate."
+  },
+  {
+    "instruction": "EMI due date",
+    "input": "When is my EMI due?",
+    "output": "Your EMI due date is specified in your loan agreement. You can also view the upcoming due date by logging into your account dashboard."
+  },
+  {
+    "instruction": "EMI schedule request",
+    "input": "Where can I see my EMI schedule?",
+    "output": "You can access your EMI schedule by logging into the customer portal and navigating to the loan details section. The full repayment schedule is available for download."
+  },
+  {
+    "instruction": "Interest rate information",
+    "input": "What is the interest rate for personal loans?",
+    "output": "Interest rates for personal loans vary based on applicant profile, credit assessment, and current policy guidelines. Please check the latest rates on our official website or apply to receive a personalized offer."
+  },
+  {
+    "instruction": "Fixed vs floating interest",
+    "input": "What is the difference between fixed and floating interest rate?",
+    "output": "A fixed interest rate remains constant throughout the loan tenure, while a floating rate may change periodically based on market conditions and benchmark rates."
+  },
+  {
+    "instruction": "Payment confirmation",
+    "input": "I made a payment but it is not reflected.",
+    "output": "Payments may take some time to reflect in the system. If the amount is not updated within 24 hours, please contact customer support with your transaction reference number."
+  },
+  {
+    "instruction": "Transaction status",
+    "input": "How do I check my recent transactions?",
+    "output": "You can view your recent transactions by logging into your account and visiting the transaction history section."
+  },
+  {
+    "instruction": "Failed payment help",
+    "input": "My payment failed. What should I do?",
+    "output": "If your payment has failed, please verify the payment status with your bank. You may retry the payment after some time or use an alternate payment method."
+  },
+  {
+    "instruction": "Account balance inquiry",
+    "input": "How can I check my account balance?",
+    "output": "You can check your account balance through the mobile app, internet banking portal, or by contacting customer support."
+  },
+  {
+    "instruction": "Update contact details",
+    "input": "How do I update my phone number?",
+    "output": "You can update your registered mobile number by logging into your account settings or by submitting a request through the customer support channel."
+  },
+  {
+    "instruction": "Password reset help",
+    "input": "I forgot my account password.",
+    "output": "You can reset your password using the 'Forgot Password' option on the login page. Follow the verification steps to create a new password securely."
+  },
+  {
+    "instruction": "Greeting",
+    "input": "Hi",
+    "output": "Hello! How may I assist you today with your banking or loan-related query?"
+  },
+  {
+    "instruction": "Greeting",
+    "input": "Good morning",
+    "output": "Good morning! I'm here to help you with any banking or financial service queries."
+  },
+  {
+    "instruction": "Out of scope",
+    "input": "Tell me a joke",
+    "output": "I'm here to assist with banking and financial service queries only. Please let me know how I can help you in that area."
+  },
+  {
+    "instruction": "Out of scope",
+    "input": "What is the weather today?",
+    "output": "I’m designed to help with banking and financial service queries. For weather updates, please use a weather service."
+  },
+  {
+    "instruction": "Complaint handling",
+    "input": "I want to raise a complaint.",
+    "output": "I'm sorry to hear that. You can register a complaint through the customer support portal or helpline. Once submitted, you will receive a reference number for tracking."
+  },
+  {
+    "instruction": "Late payment penalty",
+    "input": "What happens if I miss an EMI?",
+    "output": "Missing an EMI may result in late payment charges and could impact your credit profile. We recommend making payments on time or contacting support if you anticipate a delay."
+  },
+  {
+    "instruction": "Foreclosure query",
+    "input": "Can I close my loan early?",
+    "output": "Loan foreclosure may be allowed as per the terms of your loan agreement and applicable charges. Please check your agreement or contact support for specific details."
+  },
+  {
+    "instruction": "Part payment",
+    "input": "Can I make a part payment towards my loan?",
+    "output": "Part payments may be permitted depending on your loan terms. Please review your loan agreement or contact customer support for eligibility and applicable conditions."
+  },
+  {
+    "instruction": "Document submission",
+    "input": "What documents are required for loan application?",
+    "output": "Commonly required documents include identity proof, address proof, income proof, and bank statements. Exact requirements may vary by product and applicant profile."
+  },
+  {
+    "instruction": "KYC update",
+    "input": "How do I complete my KYC?",
+    "output": "You can complete your KYC by submitting the required identity and address documents through the customer portal or by visiting the nearest branch."
+  },
+  {
+    "instruction": "Auto debit setup",
+    "input": "How can I enable auto debit for EMI?",
+    "output": "You can enable auto debit by registering an e-mandate through your loan account dashboard or by submitting a mandate form as per the provided instructions."
+  },
+  {
+    "instruction": "Support hours",
+    "input": "What are customer support working hours?",
+    "output": "Customer support hours may vary by service channel. Please refer to the official website or mobile app for the latest support timings."
+  },
+  {
+    "instruction": "Application rejection",
+    "input": "Why was my loan rejected?",
+    "output": "Loan applications may be declined due to factors such as credit assessment, eligibility criteria, or internal policy checks. You may reapply after reviewing the requirements."
+  },
+  {
+    "instruction": "Multiple loans",
+    "input": "Can I apply for another loan if I already have one?",
+    "output": "Eligibility for an additional loan depends on your repayment history, income capacity, and internal policy checks. Please submit an application for evaluation."
+  },
+  {
+    "instruction": "Loan eligibility income requirement",
+    "input": "What income is required for a personal loan?",
+    "output": "Minimum income requirements vary by product and applicant profile. Eligibility is assessed based on income stability, repayment capacity, and internal policies. Please apply online for a precise evaluation."
+  },
+  {
+    "instruction": "Loan eligibility self employed",
+    "input": "Can self employed people apply for loans?",
+    "output": "Yes, self-employed individuals may apply for loans subject to income proof, business stability, and credit assessment as per internal policy guidelines."
+  },
+  {
+    "instruction": "Loan eligibility credit score",
+    "input": "Does my credit score affect loan approval?",
+    "output": "Yes, your credit score is one of the important factors considered during loan evaluation along with income, repayment history, and internal risk policies."
+  },
+  {
+    "instruction": "Loan top up query",
+    "input": "Can I get a top-up on my existing loan?",
+    "output": "Top-up eligibility depends on your repayment history, current outstanding amount, and internal policy checks. Please log in to your account or apply to check availability."
+  },
+  {
+    "instruction": "Loan status online",
+    "input": "Where can I track my loan application?",
+    "output": "You can track your loan application through the customer portal or mobile app under the application status section."
+  },
+  {
+    "instruction": "Loan disbursal time",
+    "input": "When will my loan be disbursed?",
+    "output": "Loan disbursal typically occurs after successful verification and approval. The exact timeline may vary depending on internal checks and document completion."
+  },
+  {
+    "instruction": "Loan agreement copy",
+    "input": "How can I download my loan agreement?",
+    "output": "You can download your loan agreement by logging into your account and navigating to the loan documents section."
+  },
+  {
+    "instruction": "Loan tenure change",
+    "input": "Can I change my loan tenure?",
+    "output": "Loan tenure modification may be allowed subject to internal policy and eligibility checks. Please contact customer support to submit a request."
+  },
+  {
+    "instruction": "EMI auto debit failure",
+    "input": "My auto debit EMI failed. What should I do?",
+    "output": "If auto debit has failed, please ensure sufficient balance in your registered account and retry the payment or contact customer support for assistance."
+  },
+  {
+    "instruction": "EMI advance payment",
+    "input": "Can I pay my EMI in advance?",
+    "output": "Advance EMI payments may be allowed depending on your loan terms. Please check your loan agreement or contact support for confirmation."
+  },
+  {
+    "instruction": "EMI bounce charges",
+    "input": "Are there charges for EMI bounce?",
+    "output": "EMI bounce may attract applicable charges as per your loan agreement and policy guidelines. Please review your agreement for details."
+  },
+  {
+    "instruction": "EMI date change",
+    "input": "Can I change my EMI due date?",
+    "output": "EMI date change requests may be considered subject to eligibility and internal policy. Please raise a service request through the customer portal."
+  },
+  {
+    "instruction": "EMI payment modes",
+    "input": "What payment methods are available for EMI?",
+    "output": "EMI payments can typically be made through auto debit, net banking, UPI, or other supported digital payment modes available on the customer portal."
+  },
+  {
+    "instruction": "Interest rate revision",
+    "input": "Can interest rates change during my loan?",
+    "output": "For floating rate loans, interest rates may change periodically based on benchmark movements and policy updates. Fixed rate loans generally remain constant."
+  },
+  {
+    "instruction": "Interest certificate request",
+    "input": "How do I get my interest certificate?",
+    "output": "You can download your interest certificate from the customer portal under the loan documents or statements section."
+  },
+  {
+    "instruction": "Interest calculation method",
+    "input": "How is loan interest calculated?",
+    "output": "Loan interest is calculated based on the outstanding principal, applicable interest rate, and repayment tenure as per the agreed terms."
+  },
+  {
+    "instruction": "Transaction not found",
+    "input": "My transaction is not showing in history.",
+    "output": "Transactions may take some time to reflect. If the transaction is not visible after 24 hours, please contact customer support with the reference number."
+  },
+  {
+    "instruction": "Duplicate payment",
+    "input": "I accidentally paid twice. What should I do?",
+    "output": "If a duplicate payment has been made, please contact customer support with both transaction references for verification and further assistance."
+  },
+  {
+    "instruction": "Refund timeline",
+    "input": "How long does a refund take?",
+    "output": "Refund timelines may vary depending on the payment method and verification process. Please check the transaction status or contact support for updates."
+  },
+  {
+    "instruction": "Account statement download",
+    "input": "How can I download my account statement?",
+    "output": "You can download your account statement by logging into the customer portal and selecting the statements section."
+  },
+  {
+    "instruction": "Email update",
+    "input": "How do I update my email address?",
+    "output": "You can update your registered email address through your profile settings after completing the required verification."
+  },
+  {
+    "instruction": "Address update",
+    "input": "How can I change my address?",
+    "output": "Address updates can be requested through the customer portal by submitting valid address proof as per KYC requirements."
+  },
+  {
+    "instruction": "Account locked",
+    "input": "My account is locked. What should I do?",
+    "output": "If your account is locked due to multiple failed login attempts, please use the account unlock or password reset option, or contact customer support."
+  },
+  {
+    "instruction": "Login issue",
+    "input": "I am unable to log in.",
+    "output": "Please verify your login credentials and try resetting your password using the 'Forgot Password' option. If the issue persists, contact support."
+  },
+  {
+    "instruction": "KYC pending",
+    "input": "My KYC shows pending. How to complete it?",
+    "output": "You can complete your pending KYC by uploading the required documents through the customer portal or visiting the nearest branch."
+  },
+  {
+    "instruction": "Mandate cancellation",
+    "input": "How do I cancel auto debit mandate?",
+    "output": "Auto debit cancellation requests can be submitted through your loan account dashboard or by contacting customer support."
+  },
+  {
+    "instruction": "Customer support contact",
+    "input": "How can I contact customer care?",
+    "output": "You can reach customer support through the official helpline, email support, or the help section available in the mobile app or website."
+  },
+  {
+    "instruction": "Branch locator",
+    "input": "How do I find the nearest branch?",
+    "output": "You can use the branch locator available on the official website or mobile app to find the nearest branch."
+  },
+  {
+    "instruction": "Service request status",
+    "input": "How can I track my service request?",
+    "output": "You can track your service request status through the customer portal using the reference number provided at the time of submission."
+  },
+  {
+    "instruction": "Prepayment charges",
+    "input": "Are there charges for loan prepayment?",
+    "output": "Prepayment charges, if applicable, are mentioned in your loan agreement and depend on the product terms and policy guidelines."
+  },
+  
+  {
+    "instruction": "Loan foreclosure process",
+    "input": "How can I foreclose my loan?",
+    "output": "Loan foreclosure requests can be submitted through your customer portal or by contacting support. Applicable charges and procedures will be as per your loan agreement."
+  },
+  {
+    "instruction": "Foreclosure amount query",
+    "input": "Where can I check my foreclosure amount?",
+    "output": "You can view your current foreclosure amount by logging into your loan account dashboard under the loan summary section."
+  },
+  {
+    "instruction": "Part payment allowed",
+    "input": "Can I make a part payment towards my loan?",
+    "output": "Part payment may be permitted subject to your loan terms and internal policies. Please check your agreement or raise a request through the portal."
+  },
+  {
+    "instruction": "Loan statement request",
+    "input": "How do I get my loan statement?",
+    "output": "You can download your loan statement from the customer portal under the statements or documents section."
+  },
+  {
+    "instruction": "Loan rejection reason",
+    "input": "Why was my loan application rejected?",
+    "output": "Loan applications are evaluated based on multiple internal criteria such as credit profile, income stability, and policy checks. You may reapply after improving eligibility factors."
+  },
+  {
+    "instruction": "Co applicant allowed",
+    "input": "Can I apply with a co-applicant?",
+    "output": "Yes, applying with a co-applicant may improve eligibility subject to both applicants meeting the required criteria and verification checks."
+  },
+  {
+    "instruction": "Guarantor requirement",
+    "input": "Is a guarantor required for personal loan?",
+    "output": "Guarantor requirements depend on the loan product and risk assessment. Most personal loans may not require a guarantor but policies may vary."
+  },
+  {
+    "instruction": "Loan processing fee",
+    "input": "Is there a processing fee for loans?",
+    "output": "Processing fees, if applicable, are charged as per product terms and are disclosed during the application process."
+  },
+  {
+    "instruction": "Loan eligibility age",
+    "input": "What is the age limit for loan eligibility?",
+    "output": "Eligible age criteria depend on the specific loan product and internal policy guidelines. Please refer to the product eligibility section for details."
+  },
+  {
+    "instruction": "Loan application documents",
+    "input": "What documents are required for loan application?",
+    "output": "Typically, identity proof, address proof, income proof, and bank statements are required. Exact requirements may vary based on the product and applicant profile."
+  },
+  {
+    "instruction": "EMI reminder setup",
+    "input": "Can I enable EMI reminders?",
+    "output": "Yes, EMI reminders can be enabled through notification settings in your customer portal or mobile application."
+  },
+  {
+    "instruction": "EMI schedule download",
+    "input": "How can I download my EMI schedule?",
+    "output": "You can download your EMI schedule from the loan details section in your customer account."
+  },
+  {
+    "instruction": "EMI overdue query",
+    "input": "My EMI is overdue. What should I do?",
+    "output": "Please make the pending payment at the earliest to avoid additional charges. You can pay through the customer portal or supported payment modes."
+  },
+  {
+    "instruction": "EMI payment confirmation",
+    "input": "How do I confirm my EMI payment was successful?",
+    "output": "You can verify EMI payment status in the transaction history section of your account dashboard."
+  },
+  {
+    "instruction": "EMI holiday policy",
+    "input": "Is EMI holiday available?",
+    "output": "EMI holiday options, if available, are subject to specific schemes and eligibility criteria. Please contact support for current offerings."
+  },
+  {
+    "instruction": "Interest type query",
+    "input": "What is the difference between fixed and floating interest?",
+    "output": "Fixed interest rates remain constant during the loan tenure, while floating rates may change periodically based on benchmark movements."
+  },
+  {
+    "instruction": "Interest rate reset",
+    "input": "When does my floating rate reset?",
+    "output": "Floating rate reset frequency is defined in your loan agreement and depends on the applicable benchmark cycle."
+  },
+  {
+    "instruction": "Interest rate negotiation",
+    "input": "Can I negotiate my interest rate?",
+    "output": "Interest rates are determined based on internal policy, risk profile, and product guidelines. You may check available offers through the portal."
+  },
+  {
+    "instruction": "Transaction pending",
+    "input": "My payment shows pending. Why?",
+    "output": "Payments may remain pending due to bank processing time. Please allow some time for the transaction to complete."
+  },
+  {
+    "instruction": "UPI payment issue",
+    "input": "My UPI payment failed but money was deducted.",
+    "output": "In case of failed UPI transactions, the amount is typically reversed automatically by the bank. If not received within the standard timeframe, please contact support."
+  },
+  {
+    "instruction": "Payment receipt download",
+    "input": "How do I download payment receipt?",
+    "output": "Payment receipts can be downloaded from the transaction history section of your customer account."
+  },
+  {
+    "instruction": "Auto debit setup",
+    "input": "How do I set up auto debit for EMI?",
+    "output": "Auto debit can be enabled by registering an e-mandate through your loan account dashboard or during the payment setup process."
+  },
+  {
+    "instruction": "Auto debit modification",
+    "input": "Can I change my auto debit bank account?",
+    "output": "Yes, you can update your registered bank account by submitting a mandate modification request through the customer portal."
+  },
+  {
+    "instruction": "Account email verification",
+    "input": "How do I verify my email?",
+    "output": "Email verification can be completed by clicking the verification link sent to your registered email address."
+  },
+  {
+    "instruction": "Mobile number update",
+    "input": "How can I change my registered mobile number?",
+    "output": "You can update your mobile number through profile settings after completing OTP verification and required authentication."
+  },
+  {
+    "instruction": "Profile update failure",
+    "input": "My profile update failed. What should I do?",
+    "output": "Please retry after ensuring all details are correct. If the issue continues, contact customer support for assistance."
+  },
+  {
+    "instruction": "KYC rejected",
+    "input": "My KYC was rejected. Why?",
+    "output": "KYC may be rejected due to unclear documents or mismatched details. Please re-upload valid documents as per the guidelines."
+  },
+  {
+    "instruction": "KYC document types",
+    "input": "Which documents are accepted for KYC?",
+    "output": "Accepted KYC documents typically include government-issued identity and address proof. Please refer to the official list in the portal."
+  },
+  {
+    "instruction": "Account closure request",
+    "input": "How do I close my account?",
+    "output": "Account closure requests can be raised through customer support or the account services section after clearing any outstanding dues."
+  },
+  {
+    "instruction": "Customer grievance",
+    "input": "How do I raise a complaint?",
+    "output": "You can raise a complaint through the help section in the portal, email support, or the official customer care helpline."
+  },
+  {
+    "instruction": "Complaint status",
+    "input": "How can I check my complaint status?",
+    "output": "Complaint status can be tracked using your service request reference number in the customer portal."
+  },
+  {
+    "instruction": "Escalation process",
+    "input": "How do I escalate my complaint?",
+    "output": "If your issue is unresolved, you may escalate through the grievance escalation matrix available on the official website."
+  },  
+  
+{
+"instruction": "Explain why my EMI amount changed.",
+"input": "Customer noticed EMI increased this month for personal loan.",
+"output": "Your EMI amount may change due to interest rate revisions, loan restructuring, or changes in repayment tenure. Please check your latest loan statement or contact support for exact details."
+},
+{
+"instruction": "How do I download my loan statement?",
+"input": "Customer using mobile banking wants last 6 months statement.",
+"output": "You can download your loan statement by logging into your account portal, navigating to the loan section, and selecting the statement download option."
+},
+{
+"instruction": "What happens if my EMI date falls on a holiday?",
+"input": "EMI due date is Sunday for home loan.",
+"output": "If your EMI due date falls on a holiday, the payment is usually processed on the next working day. However, please ensure sufficient balance to avoid penalties."
+},
+{
+"instruction": "Can I foreclose my personal loan early?",
+"input": "Customer wants to close loan before tenure ends.",
+"output": "Yes, personal loan foreclosure is allowed subject to applicable foreclosure charges and terms mentioned in your loan agreement."
+},
+{
+"instruction": "How do I update my mobile number in bank records?",
+"input": "Customer changed phone number recently.",
+"output": "You can update your mobile number through internet banking, mobile app, or by visiting your nearest branch with valid identity proof."
+},
+{
+"instruction": "What is loan restructuring?",
+"input": "Customer facing difficulty in paying EMI.",
+"output": "Loan restructuring is a process where the terms of your existing loan, such as tenure or EMI, are modified to provide repayment relief based on eligibility and bank policies."
+},
+{
+"instruction": "How can I check my credit card outstanding balance?",
+"input": "Customer wants to know current bill amount.",
+"output": "You can check your credit card outstanding balance via mobile banking, internet banking, monthly statement, or by contacting customer care."
+},
+{
+"instruction": "Why was my transaction declined?",
+"input": "Customer payment failed at online merchant.",
+"output": "Transactions may be declined due to insufficient balance, security restrictions, expired card, or bank-side risk controls. Please verify the details or contact support."
+},
+{
+"instruction": "What is minimum due in credit card?",
+"input": "Customer confused about credit card bill.",
+"output": "Minimum due is the small portion of your total credit card bill that must be paid to keep the account regular. Paying only minimum due may attract interest on the remaining balance."
+},
+{
+"instruction": "How do I activate my new debit card?",
+"input": "Customer received new card via courier.",
+"output": "You can activate your debit card by generating the PIN through ATM, internet banking, or mobile banking as per bank guidelines."
+},
+
+{
+"instruction": "Can I change my EMI due date?",
+"input": "Customer wants EMI date after salary credit.",
+"output": "EMI due date change may be allowed subject to lender policy and approval. Please raise a request through customer support."
+},
+{
+"instruction": "How long does loan approval take?",
+"input": "Customer applied for personal loan yesterday.",
+"output": "Loan approval timelines vary based on verification and eligibility checks. Typically, it may take a few working days after document submission."
+},
+{
+"instruction": "What is auto-debit for EMI?",
+"input": "Customer setting up repayment method.",
+"output": "Auto-debit is a facility where your EMI amount is automatically deducted from your registered bank account on the scheduled due date."
+},
+{
+"instruction": "How do I stop auto-debit?",
+"input": "Customer wants to switch to manual payment.",
+"output": "To stop auto-debit, please submit a request through customer support or update your mandate settings as per bank procedure."
+},
+{
+"instruction": "What is loan amortization schedule?",
+"input": "Customer reviewing home loan details.",
+"output": "An amortization schedule is a detailed table showing the breakup of each EMI into principal and interest components over the loan tenure."
+},
+{
+"instruction": "Can I get a duplicate loan agreement?",
+"input": "Customer misplaced original agreement.",
+"output": "Yes, you can request a duplicate loan agreement by contacting customer support or raising a service request through your account portal."
+},
+{
+"instruction": "What is penal interest?",
+"input": "Customer saw extra charge in statement.",
+"output": "Penal interest is an additional charge applied when EMI or payment obligations are not met on time as per the loan agreement."
+},
+{
+"instruction": "How do I check my insurance policy status?",
+"input": "Customer wants policy active confirmation.",
+"output": "You can check your policy status by logging into the insurer’s portal, mobile app, or by contacting customer support."
+},
+{
+"instruction": "What documents are required for KYC update?",
+"input": "Customer received KYC reminder message.",
+"output": "Common KYC documents include valid identity proof, address proof, and recent photograph. Exact requirements may vary by institution."
+},
+{
+"instruction": "Can I increase my credit card limit?",
+"input": "Customer wants higher spending limit.",
+"output": "Credit limit increase depends on your usage pattern, repayment history, and eligibility. You may request a review through customer support."
+},
+
+{
+"instruction": "Why is my account temporarily blocked?",
+"input": "Customer unable to login to net banking.",
+"output": "Accounts may be temporarily blocked due to security concerns, suspicious activity, or regulatory compliance checks. Please contact support for assistance."
+},
+{
+"instruction": "How do I register for net banking?",
+"input": "New customer wants online access.",
+"output": "You can register for net banking through the bank’s official website by verifying your account details and completing the authentication process."
+},
+{
+"instruction": "What is standing instruction in banking?",
+"input": "Customer setting automatic bill payments.",
+"output": "Standing instruction is an automated payment instruction set by the customer to transfer funds or make payments at regular intervals."
+},
+{
+"instruction": "Can I pay EMI using UPI?",
+"input": "Customer prefers UPI payment method.",
+"output": "Some lenders allow EMI payments via UPI. Please check the available payment options in your loan account or contact support."
+},
+{
+"instruction": "How do I get my foreclosure letter?",
+"input": "Customer fully repaid loan.",
+"output": "Once your loan is fully repaid, you can download the foreclosure or no-dues letter from your account portal or request it from customer care."
+},
+{
+"instruction": "What is prepayment penalty?",
+"input": "Customer planning part payment.",
+"output": "Prepayment penalty is a charge that may apply when you repay part or full loan amount before the scheduled tenure."
+},
+{
+"instruction": "How do I update my email address?",
+"input": "Customer changed primary email.",
+"output": "Email address can be updated through internet banking, mobile app, or by submitting a request at the branch."
+},
+{
+"instruction": "What should I do if my EMI bounces?",
+"input": "Customer received bounce notification.",
+"output": "If your EMI bounces, please arrange funds immediately and make the payment to avoid additional penalties or impact on credit score."
+},
+{
+"instruction": "Can I convert my credit card purchases into EMI?",
+"input": "Customer made large purchase.",
+"output": "Yes, eligible credit card transactions can be converted into EMI through the bank’s app, website, or customer support."
+},
+{
+"instruction": "What is overdue amount in loan?",
+"input": "Customer checking pending dues.",
+"output": "Overdue amount refers to any unpaid EMI or charges that remain pending beyond the due date."
+},
+
+{
+"instruction": "How can I view my EMI payment receipts?",
+"input": "Customer needs proof of past EMI payments.",
+"output": "You can view and download your EMI payment receipts by logging into your loan account and navigating to the payment history section."
+},
+{
+"instruction": "Why is my loan application still under review?",
+"input": "Customer applied 3 days ago and sees pending status.",
+"output": "Loan applications may remain under review while verification checks are in progress. You will be notified once the review is completed."
+},
+{
+"instruction": "Can I update my PAN details in my account?",
+"input": "Customer noticed incorrect PAN linked.",
+"output": "Yes, PAN details can be updated by submitting a correction request with valid supporting documents through the official banking channel."
+},
+{
+"instruction": "What is the grace period for EMI payment?",
+"input": "Customer asking about late payment buffer.",
+"output": "Grace period policies vary by lender. Please refer to your loan agreement or contact customer support for exact terms applicable to your loan."
+},
+{
+"instruction": "How do I check my home loan balance?",
+"input": "Customer wants remaining principal amount.",
+"output": "You can check your home loan balance by logging into your loan account dashboard or reviewing your latest loan statement."
+},
+{
+"instruction": "Why did my auto-debit fail?",
+"input": "Customer received auto-debit failure message.",
+"output": "Auto-debit may fail due to insufficient balance, mandate issues, or bank processing errors. Please ensure funds are available and retry the payment."
+},
+{
+"instruction": "Can I switch my loan from fixed to floating rate?",
+"input": "Customer exploring interest rate options.",
+"output": "Interest rate type conversion may be allowed subject to lender policy and applicable charges. Please contact customer support to check eligibility."
+},
+{
+"instruction": "How do I download my credit card statement?",
+"input": "Customer wants last month's bill.",
+"output": "You can download your credit card statement from internet banking or the mobile app under the cards or statements section."
+},
+{
+"instruction": "What should I do if my card is lost?",
+"input": "Customer misplaced debit card.",
+"output": "Please immediately block your card through mobile banking or customer care to prevent unauthorized transactions and request a replacement card."
+},
+{
+"instruction": "Is part-payment allowed on my loan?",
+"input": "Customer wants to reduce principal early.",
+"output": "Part-payment is generally allowed subject to lender terms and possible charges. Please review your loan agreement or contact support."
+},
+
+{
+"instruction": "How do I know my loan interest type?",
+"input": "Customer unsure if loan is fixed or floating.",
+"output": "Your loan interest type is mentioned in your loan agreement and statement. You can also confirm by checking your loan account dashboard."
+},
+{
+"instruction": "Why is my available credit limit reduced?",
+"input": "Customer noticed lower credit limit.",
+"output": "Credit limits may be revised based on usage patterns, repayment behavior, or internal risk policies. Please contact support for clarification."
+},
+{
+"instruction": "How can I update my address in bank records?",
+"input": "Customer recently moved to new residence.",
+"output": "You can update your address by submitting a valid address proof through internet banking, mobile app, or by visiting the branch."
+},
+{
+"instruction": "What is EMI holiday or moratorium?",
+"input": "Customer heard about payment pause option.",
+"output": "An EMI moratorium is a temporary pause on EMI payments offered under specific conditions as per lender or regulatory guidelines."
+},
+{
+"instruction": "How do I check my insurance premium due date?",
+"input": "Customer wants to avoid policy lapse.",
+"output": "You can check your premium due date in your policy document, insurer portal, or by contacting customer support."
+},
+{
+"instruction": "Can I close my credit card online?",
+"input": "Customer wants to discontinue card.",
+"output": "Credit card closure requests can usually be submitted through customer care or the official banking portal after clearing outstanding dues."
+},
+{
+"instruction": "Why was my EMI partially debited?",
+"input": "Customer saw partial deduction in account.",
+"output": "Partial debit may occur due to insufficient balance or mandate limits. Please check your bank statement and contact support for assistance."
+},
+{
+"instruction": "How do I check my loan disbursement status?",
+"input": "Customer waiting for approved loan amount.",
+"output": "You can track your loan disbursement status from your loan account dashboard or through customer support."
+},
+{
+"instruction": "What is statement generation date?",
+"input": "Customer reviewing credit card bill cycle.",
+"output": "Statement generation date is the day your billing cycle closes and the monthly statement is created."
+},
+{
+"instruction": "Can nominee be changed online?",
+"input": "Customer wants to update nominee name.",
+"output": "Nominee updates may be done online or through branch submission depending on the institution’s process."
+},
+
+{
+"instruction": "How do I unblock my debit card?",
+"input": "Customer card blocked after wrong PIN attempts.",
+"output": "You can unblock your debit card via customer support, mobile banking, or by visiting the nearest branch as per bank policy."
+},
+{
+"instruction": "Why is my loan EMI showing overdue?",
+"input": "Customer believes payment was made.",
+"output": "EMI may show overdue if payment was delayed, failed, or under processing. Please verify the transaction and contact support if needed."
+},
+{
+"instruction": "How do I enable SMS alerts?",
+"input": "Customer wants transaction notifications.",
+"output": "SMS alerts can be enabled through internet banking, mobile app settings, or by submitting a request to customer support."
+},
+{
+"instruction": "What is loan repayment mode?",
+"input": "Customer reviewing loan summary.",
+"output": "Loan repayment mode refers to the method used for EMI payments, such as auto-debit, ECS, or manual payment."
+},
+{
+"instruction": "Can I get a provisional interest certificate?",
+"input": "Customer needs document for tax filing.",
+"output": "Yes, provisional interest certificates are usually available for download from the loan portal or via customer support."
+},
+{
+"instruction": "Why is my insurance policy inactive?",
+"input": "Customer unable to view active benefits.",
+"output": "Policies may become inactive due to missed premium payments or policy term completion. Please check with your insurer for details."
+},
+{
+"instruction": "How do I change my communication preference?",
+"input": "Customer wants email instead of SMS.",
+"output": "You can update your communication preferences through your account settings or by submitting a request to customer support."
+},
+{
+"instruction": "What is loan account number?",
+"input": "Customer confused between customer ID and loan ID.",
+"output": "Loan account number is the unique identifier assigned to your specific loan. It is different from your customer ID."
+},
+{
+"instruction": "Can EMI be split into two payments?",
+"input": "Customer facing temporary cash flow issue.",
+"output": "EMI splitting is generally not allowed. However, you may contact customer support to explore available assistance options."
+},
+{
+"instruction": "How do I contact customer support?",
+"input": "Customer needs help with loan query.",
+"output": "You can contact customer support via the official helpline number, mobile app chat, email support, or by visiting the nearest branch."
+}
+
+]
